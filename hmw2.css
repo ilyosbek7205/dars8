@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    width: 100%;
+    height: 80px;
+    background-color:darkslategrey;
+    display: flex;
+    align-items: center;
+
+}
+.logo{
+ margin-left:24px ;
+color: white;
+
+}
+.btn{
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 40px;
+    background-color: dodgerblue;
+    color: white;
+    margin-left: px;
+}
+.but{
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 40px;
+    background-color: transparent;
+    color: white;
+    margin-left:px;
+}
+.but3{
+    width: 150px;
+    height: 50px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    margin-left:px;
+}
+.but2{
+    width: 150px;
+    height: 50px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    margin-left:450px;
+}
